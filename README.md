@@ -15,3 +15,4 @@
 - [Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)
 - [Hessian Matrix](https://web.stanford.edu/group/sisl/k12/optimization/MO-unit4-pdfs/4.10applicationsofhessians.pdf) in RobustDART by Stanford.
 - [Hessian Matrix](https://www.iith.ac.in/~ashok/Maths_Lectures/TutorialB/Hessian_Examples.pdf) explained by IITH.
+- [Regularization](https://sebastianraschka.com/faq/docs/regularized-logistic-regression-performance.html) - Need and Use, Blog by Sebastian Raschka
